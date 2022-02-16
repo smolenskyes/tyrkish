@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Manrope-ExtraBold';
+  src: url(./Manrope-ExtraBold.eot);
+  src: url(./Manrope-ExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(./Manrope-ExtraBold.otf) format('otf'),
+       url(./Manrope-ExtraBold.svg#Manrope-ExtraBold) format('svg'),
+       url(./Manrope-ExtraBold.ttf) format('truetype'),
+       url(./Manrope-ExtraBold.woff) format('woff'),
+       url(./Manrope-ExtraBold.woff2) format('woff2');
+}
